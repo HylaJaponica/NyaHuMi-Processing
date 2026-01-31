@@ -1,4 +1,7 @@
 import torch
+import torch.nn as nn
 
-def model_1():
+
+
+def vanila_transformer():
   return model
